@@ -10,7 +10,7 @@
 ---
 
 <p align="justify">
-  I'm a final-year engineering student at Satyug Darshan Institute of Engineering and Technology, specializing in front-end development. My passion lies in creating beautiful, responsive, and user-friendly interfaces. I love the challenge of turning complex problems into elegant, interactive designs. Currently, I'm diving deep into the React ecosystem and mastering modern styling with Tailwind CSS.
+  I'm a second-year engineering student at Satyug Darshan Institute of Engineering and Technology, specializing in front-end development. My passion lies in creating beautiful, responsive, and user-friendly interfaces. I love the challenge of turning complex problems into elegant, interactive designs. Currently, I'm diving deep into the React ecosystem and mastering modern styling with Tailwind CSS.
 </p>
 
 - 🔭 I’m currently working on **[Name of a Project you are building, e.g., a React E-commerce Site]**
