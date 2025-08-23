@@ -7,28 +7,28 @@
 
 <p align="center">
   <strong>You can find me on my travels across the web:</strong><br>
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="your-linkedin-username" /></a>
-  <a href="https://twitter.com/your-twitter-handle" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="your-twitter-handle" /></a>
-  <a href="https://your-portfolio-website.com" target="blank"><img align="center" src="https://img.shields.io/badge/My_Portfolio-A40000?style=for-the-badge&logo=grommet&logoColor=white" alt="Portfolio Website" /></a>
+  <a href="https://www.linkedin.com/in/abhishek-singh-977605354" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="your-linkedin-username" /></a>
+  <a href="https://twitter.com/Abhi01301855" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="your-twitter-handle" /></a>
+  <a href="https://meetavi.netlify.app" target="blank"><img align="center" src="https://img.shields.io/badge/My_Portfolio-A40000?style=for-the-badge&logo=grommet&logoColor=white" alt="Portfolio Website" /></a>
 </p>
 
 ---
 
-###  shinobi scroll My Developer's Path
+### My Developer's Path
 
 <p align="justify">
   I'm a second-year engineering student at Satyug Darshan Institute of Engineering and Technology, currently focused on the art of front-end development. I approach coding like a shinobi on a mission: with focus, precision, and a passion for mastering my craft. My goal is to turn complex challenges into elegant, intuitive, and highly responsive user interfaces. My primary weapons of choice are **React** and **Tailwind CSS**.
 </p>
 
-- 🎯 **Current Mission:** Building a **[Name of a Project, e.g., a dynamic data visualization dashboard]**.
-- 🌱 **Honing My Skills:** Currently mastering **[A new skill, e.g., TypeScript for impenetrable, type-safe code]**.
+- 🎯 **Current Mission:** Building a **[a community based skill sharing platform]**.
+- 🌱 **Honing My Skills:** Currently mastering **[Next js]**.
 - 💬 **Seek My Counsel:** Ask me about **React, Tailwind CSS, JavaScript, and crafting pixel-perfect UIs**.
-- 📫 **Send a Message:** You can reach me at **[Your Professional Email Address]**.
+- 📫 **Send a Message:** You can reach me at **[darvince.1561@gmail.com]**.
 - ✨ **Fun Fact:** When I'm not coding, I'm often capturing moments and stories through photography.
 
 ---
 
-###  katana My Arsenal: Tech & Skills
+###  Tech & Skills
 
 <p align="center">
   <em>The tools I wield to execute my missions.</em>
@@ -42,14 +42,6 @@
 </p>
 
 ---
-
-### 📊 Mission Report: GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishek-hash01&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="abhishek-hash01's GitHub stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-hash01&layout=compact&theme=gruvbox" alt="abhishek-hash01's top languages" />
-</p>
 
 <p align="center">
   <em>Thanks for visiting. Let's build something legendary.</em>
