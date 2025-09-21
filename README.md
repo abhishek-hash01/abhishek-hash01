@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://imgur.com/hVOBeJa](https://imgur.com/hVOBeJa)" alt="Sekiro Pixel Art Animation" width="full" height="300"/>
+  <<blockquote class="imgur-embed-pub" lang="en" data-id="hVOBeJa" data-context="false" ><a href="//imgur.com/hVOBeJa"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </p>
 
 <h1 align="center">Greetings. I'm Abhishek (Avi).</h1>
