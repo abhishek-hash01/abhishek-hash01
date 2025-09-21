@@ -1,4 +1,4 @@
-<a href="https://meetavi.netlify.app">
+<a href="https://meetavi.netlify.app" target="_blank">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5yMjU5dGw0dm92NXI0dXN3d3JoMDh2bjRkc29saW81Y2RxdXF4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzHFPlw89eTqU/giphy.gif" alt="MasterHead" style="width: 600px; heigh:300px align: auto" />
 </a>
 
