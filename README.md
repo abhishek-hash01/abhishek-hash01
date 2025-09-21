@@ -1,5 +1,5 @@
 <p align="center">
-  <<blockquote class="imgur-embed-pub" lang="en" data-id="hVOBeJa" data-context="false" ><a href="//imgur.com/hVOBeJa"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+  <img src="https://imgur.com/hVOBeJa" alt="MasterHead" style="width: 100vw;" />
 </p>
 
 <h1 align="center">Greetings. I'm Abhishek (Avi).</h1>
