@@ -31,7 +31,7 @@ I enjoy building products, experimenting with ideas, and turning curiosity into 
 <h2 align="center">About Me</h2>
 
 <p align="center">
-Computer Science student at <strong>Satyug Darshan Institute of Engineering & Technology</strong>.
+Computer Science student at <strong>YMCA University</strong>.
 </p>
 
 <p align="center">
