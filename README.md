@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://abhishek-hash01.vercel.app/">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5yMjU5dGw0dm92NXI0dXN3d3JoMDh2bjRkc29saW81Y2RxdXF4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzHFPlw89eTqU/giphy.gif" 
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5yMjU5dGw0dm92NXI0dXN3d3JoMDh2bjRkc29saW81Y2RxdXF4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzHFPlw89eTqU/giphy.gif"
          alt="Samurai"
          width="600"
          height="400"/>
@@ -31,11 +31,11 @@ I enjoy building products, experimenting with ideas, and turning curiosity into 
 <h2 align="center">About Me</h2>
 
 <p align="center">
-Computer Science student at <strong>YMCA University</strong>.
+Computer Science student at <strong>YMCA university</strong>.
 </p>
 
 <p align="center">
-I like building products, testing ideas, and experimenting with software that solves real problems.
+I enjoy building products, testing ideas, and experimenting with software that solves real problems.
 </p>
 
 <p align="center">
@@ -48,13 +48,19 @@ Recently exploring the intersection of <strong>AI, software, and startup buildin
 
 <p align="center">
 🧠 <strong>MediKarya</strong><br>
-A platform exploring <strong>interactive medical learning through case-based simulations</strong>.
+Interactive medical learning platform using <strong>case-based simulations</strong>.
 </p>
 
 <p align="center">
-<a href="https://medikarya.vercel.app">
-<img src="https://img.shields.io/badge/View_Project-MediKarya-blue?style=for-the-badge"/>
+
+<a href="https://medikarya.in">
+<img src="https://img.shields.io/badge/Visit_MediKarya-1E90FF?style=for-the-badge"/>
 </a>
+
+<a href="https://github.com/medikarya/medikarya-web">
+<img src="https://img.shields.io/badge/GitHub_Repo-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
@@ -64,17 +70,17 @@ A platform exploring <strong>interactive medical learning through case-based sim
 <p align="center">
 
 🧪 <strong>Machine Learning Fundamentals</strong><br>
-Understanding models, experimentation, and real-world ML workflows.
+Understanding models, experimentation, and applied ML workflows.
 
 <br><br>
 
 🤖 <strong>AI-Assisted Product Development</strong><br>
-Using AI tools to prototype, build, and ship faster.
+Using AI tools to prototype, build, and iterate faster.
 
 <br><br>
 
 🚀 <strong>Startup & Product Validation</strong><br>
-Testing ideas, building MVPs, and learning how products grow.
+Building MVPs, testing ideas, and learning how products grow.
 
 <br><br>
 
