@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://meetavi.netlify.app">
+  <a href="https://abhishek-hash01.vercel.app/">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5yMjU5dGw0dm92NXI0dXN3d3JoMDh2bjRkc29saW81Y2RxdXF4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzHFPlw89eTqU/giphy.gif" 
-         alt="Samurai" 
-         width="600" 
-         height="400" />
+         alt="Samurai"
+         width="600"
+         height="400"/>
   </a>
 </p>
 
@@ -15,15 +15,14 @@ I enjoy building products, experimenting with ideas, and turning curiosity into 
 </p>
 
 <p align="center">
-  <strong>You can find me across the web:</strong><br><br>
-  <a href="https://www.linkedin.com/in/abhishek-singh-977605354" target="_blank">
+  <a href="https://www.linkedin.com/in/abhishek-singh-977605354">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/Abhi01301855" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://abhishek-hash01.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://meetavi.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-A40000?style=for-the-badge&logo=grommet&logoColor=white"/>
+  <a href="mailto:darvince.1561@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -31,16 +30,16 @@ I enjoy building products, experimenting with ideas, and turning curiosity into 
 
 <h2 align="center">About Me</h2>
 
-<p align="justify">
-I'm a Computer Science student at <strong>YMCA University</strong>.
+<p align="center">
+Computer Science student at <strong>Satyug Darshan Institute of Engineering & Technology</strong>.
 </p>
 
-<p align="justify">
-I enjoy building things on the internet — from user interfaces to full product experiments. Most projects begin with curiosity, turn into prototypes, and sometimes evolve into real platforms.
+<p align="center">
+I like building products, testing ideas, and experimenting with software that solves real problems.
 </p>
 
-<p align="justify">
-Recently I've been exploring the intersection of <strong>software, AI, and startup ideas</strong>.
+<p align="center">
+Recently exploring the intersection of <strong>AI, software, and startup building</strong>.
 </p>
 
 ---
@@ -48,11 +47,14 @@ Recently I've been exploring the intersection of <strong>software, AI, and start
 <h2 align="center">What I'm Building</h2>
 
 <p align="center">
-🎯 <strong>MediKarya</strong> — exploring interactive medical learning through case-based simulations
+🧠 <strong>MediKarya</strong><br>
+A platform exploring <strong>interactive medical learning through case-based simulations</strong>.
 </p>
 
 <p align="center">
-🧪 Product experiments around communities, tools, and learning platforms
+<a href="https://medikarya.vercel.app">
+<img src="https://img.shields.io/badge/View_Project-MediKarya-blue?style=for-the-badge"/>
+</a>
 </p>
 
 ---
@@ -60,10 +62,25 @@ Recently I've been exploring the intersection of <strong>software, AI, and start
 <h2 align="center">Currently Exploring</h2>
 
 <p align="center">
-• Machine Learning fundamentals <br>
-• AI-assisted product development <br>
-• Startup building & product validation <br>
-• Modern web architectures with Next.js
+
+🧪 <strong>Machine Learning Fundamentals</strong><br>
+Understanding models, experimentation, and real-world ML workflows.
+
+<br><br>
+
+🤖 <strong>AI-Assisted Product Development</strong><br>
+Using AI tools to prototype, build, and ship faster.
+
+<br><br>
+
+🚀 <strong>Startup & Product Validation</strong><br>
+Testing ideas, building MVPs, and learning how products grow.
+
+<br><br>
+
+⚡ <strong>Modern Web Architecture</strong><br>
+Deepening knowledge in Next.js and scalable frontend systems.
+
 </p>
 
 ---
@@ -72,7 +89,9 @@ Recently I've been exploring the intersection of <strong>software, AI, and start
 
 <p align="center">
 <em>The tools I currently use to build and experiment.</em>
-<br><br>
+</p>
+
+<p align="center">
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
@@ -86,14 +105,6 @@ Recently I've been exploring the intersection of <strong>software, AI, and start
 
 ---
 
-<h2 align="center">Contact</h2>
-
 <p align="center">
-📫 <strong>Email:</strong> darvince.1561@gmail.com
-</p>
-
----
-
-<p align="center">
-<em>Thanks for visiting. Always building, always experimenting.</em>
+<em>Always building. Always experimenting.</em>
 </p>
