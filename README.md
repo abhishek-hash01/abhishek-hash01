@@ -7,47 +7,93 @@
   </a>
 </p>
 
-<h1 align="center">Greetings. I'm Abhishek (Avi).</h1>
-<h3 align="center">A Front-End Developer on a mission to build sharp, precise, and beautiful web applications.</h3>
+<h1 align="center">Avi (Abhishek Singh)</h1>
+<h3 align="center">Builder • Computer Science Student • Exploring Startups & AI</h3>
 
 <p align="center">
-  <strong>You can find me on my travels across the web:</strong><br>
-  <a href="https://www.linkedin.com/in/abhishek-singh-977605354" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="your-linkedin-username" /></a>
-  <a href="https://twitter.com/Abhi01301855" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="your-twitter-handle" /></a>
-  <a href="https://meetavi.netlify.app" target="blank"><img align="center" src="https://img.shields.io/badge/My_Portfolio-A40000?style=for-the-badge&logo=grommet&logoColor=white" alt="Portfolio Website" /></a>
+I enjoy building products, experimenting with ideas, and turning curiosity into working software.
+</p>
+
+<p align="center">
+  <strong>You can find me across the web:</strong><br><br>
+  <a href="https://www.linkedin.com/in/abhishek-singh-977605354" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/Abhi01301855" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://meetavi.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-A40000?style=for-the-badge&logo=grommet&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### My Developer's Path
+<h2 align="center">About Me</h2>
 
 <p align="justify">
-  I'm a second-year engineering student at Satyug Darshan Institute of Engineering and Technology, currently focused on the art of front-end development. I approach coding like a shinobi on a mission: with focus, precision, and a passion for mastering my craft. My goal is to turn complex challenges into elegant, intuitive, and highly responsive user interfaces. My primary weapons of choice are **React** and **Tailwind CSS**.
+I'm a Computer Science student at <strong>Satyug Darshan Institute of Engineering & Technology</strong>.
 </p>
 
-- 🎯 **Current Mission:** Building a **[a community based skill sharing platform]**.
-- 🌱 **Honing My Skills:** Currently mastering **[Next js]**.
-- 💬 **Seek My Counsel:** Ask me about **React, Tailwind CSS, JavaScript, and crafting pixel-perfect UIs**.
-- 📫 **Send a Message:** You can reach me at **[darvince.1561@gmail.com]**.
-- ✨ **Fun Fact:** When I'm not coding, I'm often capturing moments and stories through photography.
+<p align="justify">
+I enjoy building things on the internet — from user interfaces to full product experiments. Most projects begin with curiosity, turn into prototypes, and sometimes evolve into real platforms.
+</p>
 
----
-
-###  Tech & Skills
-
-<p align="center">
-  <em>The tools I wield to execute my missions.</em>
-  <br><br>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a>
+<p align="justify">
+Recently I've been exploring the intersection of <strong>software, AI, and startup ideas</strong>.
 </p>
 
 ---
 
+<h2 align="center">What I'm Building</h2>
+
 <p align="center">
-  <em>Thanks for visiting. Let's build something legendary.</em>
+🎯 <strong>MediKarya</strong> — exploring interactive medical learning through case-based simulations
+</p>
+
+<p align="center">
+🧪 Product experiments around communities, tools, and learning platforms
+</p>
+
+---
+
+<h2 align="center">Currently Exploring</h2>
+
+<p align="center">
+• Machine Learning fundamentals <br>
+• AI-assisted product development <br>
+• Startup building & product validation <br>
+• Modern web architectures with Next.js
+</p>
+
+---
+
+<h2 align="center">Tech & Tools</h2>
+
+<p align="center">
+<em>The tools I currently use to build and experiment.</em>
+<br><br>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+
+</p>
+
+---
+
+<h2 align="center">Contact</h2>
+
+<p align="center">
+📫 <strong>Email:</strong> darvince.1561@gmail.com
+</p>
+
+---
+
+<p align="center">
+<em>Thanks for visiting. Always building, always experimenting.</em>
 </p>
