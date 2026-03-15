@@ -72,17 +72,11 @@ Interactive medical learning platform using <strong>case-based simulations</stro
 🧪 <strong>Machine Learning Fundamentals</strong><br>
 Understanding models, experimentation, and applied ML workflows.
 
-<br><br>
-
 🤖 <strong>AI-Assisted Product Development</strong><br>
 Using AI tools to prototype, build, and iterate faster.
 
-<br><br>
-
 🚀 <strong>Startup & Product Validation</strong><br>
 Building MVPs, testing ideas, and learning how products grow.
-
-<br><br>
 
 ⚡ <strong>Modern Web Architecture</strong><br>
 Deepening knowledge in Next.js and scalable frontend systems.
